@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en" ng-app="app">
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.23/angular.min.js"></script>
+  <script type="text/javascript" src="/js/meu-mobile-redirect.js"></script>
+
+  <script>
+  var app = angular.module('app', []);
+
+  app.controller('MainCtrl', function($scope) {
+    $scope.redirectFields = {
+      mobileUrl: null,
+      homeUrl: null,
+      excludeUrl: null,
+      currentUrl: null
+    };
+
+    $scope.redirect = function(redirectFields) {
+      console.log(redirectFields);
+      var homePattern = redirectFields.homeUrl ? new RegExp(redirectFields.homeUrl) : null;
+      var excludePattern = redirectFields.excludeUrl ? new RegExp(redirectFields.excludeUrl) : null
+      RedirectToMeuMobi(redirectFields.mobileUrl, homePattern, excludePattern, redirectFields.currentUrl);
+    };
+  });
+  </script>
+<style>
+</style>
+</head>
+<body ng-controller="MainCtrl">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <h2>Redirect Usage</h2>
+        <p class="small">
+        Usage: <a href="http://services.int-meumobi.com/redirect/?domain=satander.int-meumobi.com&url=http://www.180back.com/surf/breves-surf/rip-curl-gromsearch-2014-a-anglet-la-video-16112/">/redirect/?domain={DOMAIN}&url={URL}</a>
+        <br>
+        <br>
+        Example: http://services.int-meumobi.com/redirect/?domain=satander.int-meumobi.com&url=http://www.180back.com/surf/breves-surf/rip-curl-gromsearch-2014-a-anglet-la-video-16112/
+	      </p>
+        <h2>Redirect test</h2>
+        <form role="form" ng-submit="redirect(redirectFields)">
+          <div class="form-group col-md-6">
+            <label for="mobile-url">Mobile url</label>
+            <input type="text" name="mobile-url" class="form-control" ng-model="redirectFields.mobileUrl" placeholder="Mobile url">
+            <span class="help-block small">E.g. http://santander.int-meumobi.com</span>
+          </div>
+          <div class="form-group col-md-6">
+            <label for="home">Home pattern</label> 
+            <input name="home" type="text" class="form-control" ng-model="redirectFields.homeUrl" placeholder="Home regex pattern">
+            <span class="help-block small">E.g. \/home|\/index.html</span>
+          </div>
+          <div class="form-group col-md-6">
+            <label for="exclude">Exclude pattern</label>
+            <input name="exclude" type="text" class="form-control" ng-model="redirectFields.excludeUrl" placeholder="Exclude regex pattern">
+            <span class="help-block small">E.g. \/contact|\/documents</span>
+          </div>
+          <div class="form-group col-md-12">
+            <label for="current">Current url</label>
+            <input type="text" class="form-control" ng-model="redirectFields.currentUrl" placeholder="Current url">
+            <span class="help-block small">E.g. http://www.180back.com/snowboard/breves-snowboard/shredbots-the-moovie-le-trailer-16656/</span>
+          </div>
+          <div class="col-md-12">
+          <button type="submit" class="btn btn-default">Redirect</button>
+        </div>
+        </form>
+     </div>
+  </div>
+</div>
+</body>
+</html>
+
