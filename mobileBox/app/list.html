@@ -63,11 +63,11 @@
 			<a ng-repeat="item in scrollItems" href="#/show" class="list-group-item">
 	<div class="media">
         <div class="pull-left">
-            <img src="http://placehold.it/120X90" class="media-object" alt="Sample Image">
+            <img src="{{item.img}}" class="media-object" alt="Sample Image" width="118px" height="74px">
         </div>
         <div class="media-body">
-            <h4 class="media-heading">Jhon Carter <small><i>Posted on January 10, 2014</i></small></h4>
-            <p>Excellent feature! I love it. One day I'm definitely going to put this Bootstrap component into use and I'll let you know once I do.</p>
+            <h4 class="media-heading">{{item.title}} <small><i>Posted on January 10, 2014</i></small></h4>
+            <p>{{item.caption}}</p>
         </div>
 
     </div>

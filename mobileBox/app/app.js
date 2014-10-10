@@ -95,7 +95,21 @@ app.controller('MainController', function($rootScope, $scope, analytics){
   var scrollItems = [];
 
   for (var i=1; i<=100; i++) {
-    scrollItems.push("Nullam sapien massa, aliquam in cursus ut, ullamcorper in tortor. Aliquam mauris arcu, tristique a lobortis vitae, condimentum feugiat justo. " + i);
+    scrollItems.push({
+			img: "http://enterprise.meumobilesite.com/uploads/items/314x220_6752235.jpg",
+			caption: "Nullam sapien massa, aliquam in cursus ut, ullamcorper in tortor. Aliquam mauris arcu,... ",
+			title: "Excellent feature!"
+		});
+    scrollItems.push({
+			img: "http://enterprise.meumobilesite.com/uploads/items/314x220_6764296.jpg",
+			caption: "Nullam sapien massa, aliquam in cursus ut, ullamcorper in tortor. Aliquam mauris arcu.Nullam sapien massa, aliquam in cursus ut, ullamcorper in tortor. Aliquam mauris arcu ",
+			title: "Aluna nota mil fatura dando dicas pela web"
+		});
+    scrollItems.push({
+			img: "http://s2.glbimg.com/jMHSgVE_D3dudW2-VogPePSptsA=/s.glbimg.com/jo/g1/f/original/2014/10/10/000_was8871493.jpg",
+			caption: "Regiões ativas, com mais luz e energia, formam espécie de ‘rosto’. Ondas dourada e amarela de campos magnéticos contribuem para o efeito.",
+			title: "Sol vira 'abóbora de Haloween' em foto divulgada pela Nasa"
+		});
   }
 
   $scope.scrollItems = scrollItems;
