@@ -13,6 +13,8 @@ app.config(function($routeProvider, $locationProvider) {
   $routeProvider.when('/overlay',   {templateUrl: "overlay.html"}); 
   $routeProvider.when('/forms',     {templateUrl: "forms.html"});
   $routeProvider.when('/carousel',  {templateUrl: "carousel.html"});
+	$routeProvider.when('/signin',		{templateUrl: "signin.html"});
+	$routeProvider.when('/list',		{templateUrl: "list.html"});
 });
 
 app.service('analytics', [
