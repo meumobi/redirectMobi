@@ -29,7 +29,7 @@ module.exports = function(grunt) {
     copy: {
       fa: {
         expand: true,
-        cwd: "bower_components/font-awesome/fonts",
+        cwd: "app/bower_components/font-awesome/fonts",
         src: ["**"],
         dest: 'dist/fonts'
       }
@@ -38,7 +38,7 @@ module.exports = function(grunt) {
     less: {
       dist: {
         options: {
-          paths: ["src/less", "bower_components"]
+          paths: ["src/less", "app/bower_components"]
         },
         files: {
           "tmp/mobile.css": "src/less/mobile-angular-ui.less",
