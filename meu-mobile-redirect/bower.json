@@ -1,0 +1,30 @@
+{
+  "name": "Mobile Redirector",
+  "version": "0.0.0",
+  "homepage": "http://meumobi.github.io",
+  "authors": [
+    "victor dias <victor.dias@meumobi.com>"
+  ],
+  "description": "Mobile Redirector: JS script to Redirect your users from desktop website to your mobile site",
+  "main": "index.html",
+  "keywords": [
+    "mobile",
+    "redirect",
+    "js",
+    "dedicated",
+    "website"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-latest": "~1.2.26",
+    "bootstrap": "~3.2.0"
+  }
+}
