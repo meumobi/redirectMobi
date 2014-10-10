@@ -1,11 +1,59 @@
 <input type="search" class="form-control app-search" placeholder="Search.." />
 
-<div class="scrollable">
+<!--div class="scrollable">
+  <div class="scrollable-content">
+    <div class="list-group">
+
+      <a ng-repeat="item in scrollItems" href="#" class="list-group-item">
+        <div class="col-xs-4">
+					<img src="http://placehold.it/117X66" class="img-thumbnail" />
+				</div>
+					<div class="col-xs-8">
+						{{ item }}
+						<i class="fa fa-chevron-right pull-right"></i>
+					</div>
+					<div class="clearfix"></div>
+      </a>
+
+		</div>
+  </div>
+</div-->
+<!--div class="scrollable">
   <div class="scrollable-content">
     <div class="list-group">
       <a ng-repeat="item in scrollItems" href="#" class="list-group-item">
-        <img src="http://placehold.it/117X66" class="img-thumbnail" >{{ item }} <i class="fa fa-chevron-right pull-right"></i>
+				<div class="image-container">
+					<img src="http://metroui.org.ua/images/2.jpg"/>
+					<div class="overlay">{{item}}</div>
+				</div>
       </a>
     </div>
   </div>
+</div-->
+<div class="scrollable">
+	<div class="scrollable-content">
+		<div class="list-group">
+			<a ng-repeat="item in scrollItems" href="#/show" class="list-group-item">
+				<div class="media col-xs-4">
+					<figure class="pull-left">
+						<img class="media-object img-rounded img-responsive"  src="http://placehold.it/120X90" alt="placehold.it/350x250" >
+					</figure>
+					</div>
+				<div class="col-xs-7">
+					<h4 class="list-group-item-heading">
+						List group heading
+					</h4>
+					<p class="list-group-item-text">
+						Qui diam libris ei, vidisse incorrupte at mel. His euismod salutandi ...
+					</p>
+				</div>
+				<div class="col-xs-1 text-center">
+					<p>
+						<i class="fa fa-chevron-right pull-right"></i>
+					</p>
+				</div>
+				<div class="clearfix"></div>
+			</a>
+		</div>
+	</div>
 </div>

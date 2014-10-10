@@ -15,6 +15,7 @@ app.config(function($routeProvider, $locationProvider) {
   $routeProvider.when('/carousel',  {templateUrl: "carousel.html"});
 	$routeProvider.when('/signin',		{templateUrl: "signin.html"});
 	$routeProvider.when('/list',		{templateUrl: "list.html"});
+	$routeProvider.when('/show',		{templateUrl: "show.html"});
 });
 
 app.service('analytics', [
@@ -94,7 +95,7 @@ app.controller('MainController', function($rootScope, $scope, analytics){
   var scrollItems = [];
 
   for (var i=1; i<=100; i++) {
-    scrollItems.push("Item " + i);
+    scrollItems.push("Nullam sapien massa, aliquam in cursus ut, ullamcorper in tortor. Aliquam mauris arcu, tristique a lobortis vitae, condimentum feugiat justo. " + i);
   }
 
   $scope.scrollItems = scrollItems;
