@@ -16,6 +16,7 @@ app.config(function($routeProvider, $locationProvider) {
 	$routeProvider.when('/signin',		{templateUrl: "signin.html"});
 	$routeProvider.when('/list',		{templateUrl: "list.html"});
 	$routeProvider.when('/show',		{templateUrl: "show.html"});
+	$routeProvider.when('/account',		{templateUrl: "account.html"});
 	$routeProvider.otherwise({redirectTo: '/'});
 });
 
