@@ -5,7 +5,7 @@ var app = angular.module('infoBox', [
 ]);
 
 app.config(function($routeProvider, $locationProvider) {
-  $routeProvider.when('/',          {templateUrl: "home.html"});
+  $routeProvider.when('/',          {templateUrl: "list.html"});
   $routeProvider.when('/scroll',    {templateUrl: "scroll.html"}); 
   $routeProvider.when('/toggle',    {templateUrl: "toggle.html"}); 
   $routeProvider.when('/tabs',      {templateUrl: "tabs.html"}); 
@@ -16,6 +16,7 @@ app.config(function($routeProvider, $locationProvider) {
 	$routeProvider.when('/signin',		{templateUrl: "signin.html"});
 	$routeProvider.when('/list',		{templateUrl: "list.html"});
 	$routeProvider.when('/show',		{templateUrl: "show.html"});
+	$routeProvider.otherwise({redirectTo: '/'});
 });
 
 app.service('analytics', [
