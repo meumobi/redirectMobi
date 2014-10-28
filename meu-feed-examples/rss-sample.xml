@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:media="http://search.yahoo.com/mrss/"	>
+  <channel>
+    <title>RSS Sample</title>
+    <link>testing.meumobi.com</link>
+    <description>Test RSS import</description>
+    <item>
+      <title>
+				<![CDATA[Use an img[contains(@src, "/photos/")]]>
+</title>
+      <link>http://www.lerugbynistere.fr/news/xv-france-rory-kockott-bientot-maillot-bleu-0408141513.php</link>
+      <description>
+        <![CDATA[<p><img src="http://www.lerugbynistere.fr/photos/620_px/rory-kockott-bientot-avec-le-xv-de-france--2014-08-04.png" alt="XV de France. Rory Kockott bientôt sous le maillot bleu ?"/>Pour remplacer Fourie Du Preez, blessé contre l'Ecosse en test match et indisponible pour le Four Nations, le sélectionneur sud-africain Heyneke Meyer a choisi d'appeler le prodige Cobus Reinach. Le jeune demi de mêlée des Sharks en Super Rugby est intégré pour la première fois en équipe d'Afrique du Sud et sera en concurrence avec Ruan Pienaar et François Hougaard. Et Rory Kockott dans tout ça ? Le demi de mêlée du Castres Olympique, appelé en juin 2012 avant de se désister pour un accident domestique, n'a depuis plus jamais figuré dans la liste des Springboks. Même si son club ne doit pas être mécontent de la situation actuelle, les fans de Rory, eux, n'apprécient pas vraiment ce manque de reconnaissance.</p>
+                                <p><b>Le joueur de 28 ans est désormais sélectionnable en équipe de France depuis un peu plus d'un mois</b>, et même si Philippe Saint-André ne choisit pas toujours les meilleurs joueurs à leur poste (un certain FTD approuve ce message), on ne voit pas comment il pourrait se passer du meilleur numéro neuf du Top 14 si celui-ci accepte de jouer en Bleu. Rory Kockott intègrera-t-il le XV de France lors de la Tournée d'automne ? C'est en tout cas ce que souhaitent plusieurs de ses fans sur twitter</b>«On dirait que le message a été envoyé à Rory Kockott, il vaut mieux qu'il joue pour la France où il sera le numéro un au poste de demi de mêlée.»</p>]]>
+</description>
+      <pubDate>Mon, 04 Aug 2014 00:00:00 GMT</pubDate>
+		</item>
+    <item>
+      <title>
+        <![CDATA[Use gallery of imgs[contains(@src, "/photos/")]]>
+</title>
+<link>http://www.lerugbynistere.fr/news/les-plus-jolies-joueuses-calendriers-rugby-feminin-2307121536.php</link>
+      <description>
+				<![CDATA[<img=src"http://www.lerugbynistere.fr/photos/calendrier-bordeaux-2" alt="Merci les filles du Stade Bordelais Rugby" />
+				<img src="http://www.lerugbynistere.fr/photos/620_px/calendrier-canada-7-1.jpg" alt="Equipe Nationale Féminine de Rugby à 7 Canadienne" />
+				<img src="http://www.lerugbynistere.fr/photos/620_px/calendrier-canada-7-2.jpg" alt="Equipe Nationale Féminine de Rugby à 7 Canadienne" />
+				<img src="http://www.lerugbynistere.fr/photos/calendrier-paris-4" alt="Merci aux filles du RCP XV" />
+				<img src="http://www.lerugbynistere.fr/photos/calendrier-bordeaux-4" alt="Merci les filles du Stade Bordelais Rugby" />
+				<img src="http://www.lerugbynistere.fr/photos/620_px/calendrier-canada-7-3.jpg" alt="Equipe Nationale Féminine de Rugby à 7 Canadienne" />
+				<img src="http://www.lerugbynistere.fr/photos/lecon-la-melee-usap-2.jpg" alt="Merci aux filles de l'USAP" />
+				<img src="http://www.lerugbynistere.fr/photos/calendrier-paris-2" alt="Merci aux filles du RCP XV" />]]>
+</description>
+      <pubDate>Mon, 04 Aug 2014 00:00:00 GMT</pubDate>
+			</item>
+    <item>
+      <title>
+        <![CDATA[Use dailymotion video on media:content]]>
+</title>
+      <link>http://www.lerugbynistere.fr/videos/video-coupe-monde-rugby-feminin-mandisa-williams-suspendue-16-semaines-fourchette-0408141209.php</link>
+      <description>
+        <![CDATA[<p><img src="http://www.lerugbynistere.fr/photos/620_px/mandisa-williams-suspendue-16-semaines-pour-une-fourchette-2014-08-04.jpg" alt="Mandisa Williams suspendue 16 semaines pour une fourchette"/><b>Pour deux joueuses, la Coupe du monde de rugby féminin est déjà terminée</b>. Le site Scrumqueens nous apprend que la troisième ligne et capitaine de l'Afrique du Sud Mandisa Williams a écopé d'<b>une suspension de 16 semaines pour une fourchette</b> sur la deuxième ligne de l'Australie Alisha Hewett vendredi dernier. Un geste contraire aux règles qui est intervenu lors de la première mi-temps de la rencontre de la Poule C, celle de la France, suite à une charge du pilier Cebisa Kula. Sur un déblayage plutôt musclé, Williams s'est accroché avec son adversaire en portant sa main droite au niveau de son visage, avant de lui adresser ce qui ressemble à un coup de poing. Autre infraction au règlement de l'IRB pour lequel elle a <b>écopé de deux semaines</b>. Une suspension qui ne s'ajoute pas à l'autre. Mandisa Williams va donc manquer les quatre prochains matchs du mondial, et sera suspendu encore 7 semaines jusqu'à la fin de la saison du rugby en Afrique du Sud le 27 septembre 2014. <b>Les 5 semaines restantes sont reportées sur l'année suivante.</b></p> 
+                                <p>La prise de catch de l'arrière des Samoa, Soteria Pulumu, ne pouvait également pas rester impunie. Exclue définitivement de la rencontre face à l'Angleterre, cette dernière a écopé de cinq semaines de suspension. Mondial terminé pour elle-aussi.</p>]]>
+</description>
+      <media:content url="http://www.dailymotion.com/embed/video/x22rg3w?syndication=117355" type="text/html" medium="document">
+        <media:title>La fourchette de Mandisa Williams</media:title>
+      </media:content>
+      <pubDate>Mon, 04 Aug 2014 00:00:00 GMT</pubDate>
+		</item>
+    <item>
+      <title>
+        <![CDATA[Use youtube video on media:content]]>
+</title>
+      <link>http://www.lerugbynistere.fr/videos/video-78eme-minute-et-craig-joubert-siffle-penalite-contre-richie-mccaw-0308141307.php</link>
+      <description>
+        <![CDATA[Non, vous ne rêvez pas. Hier, lors de la finale du <b>Super Rugby</b> entre les <b>Crusaders</b> et les <b>Waratahs</b>, <b>Richie McCaw</b> a peut-être couté la victoire à son équipe en commettant une faute dans les dernières minutes du match. L'arbitre de la rencontre, le très décrié <b>Craig Joubert </b> inutile de vous rappeler pourquoi a pris ses responsabilités et n'a pas hésité à siffler une pénalité. Derrière, <b>Bernard Foley</b> a passé le coup de pied de la gagne, permettant aux Tahs de <a href="http://www.lerugbynistere.fr/videos/super-rugby-les-waratahs-remportent-premier-titre-fil-face-crusaders-0208141530.php">remporter leur premier titre en Super Rugby</a>. 
+
+... <a href="http://www.lerugbynistere.fr/videos/video-78eme-minute-et-craig-joubert-siffle-penalite-contre-richie-mccaw-0308141307.php"><br><br>>> Lire la suite et voir la video</a><br><br>Source : <a href="http://www.lerugbynistere.fr/videos/video-78eme-minute-et-craig-joubert-siffle-penalite-contre-richie-mccaw-0308141307.php">http://www.lerugbynistere.fr/videos/video-78eme-minute-et-craig-joubert-siffle-penalite-contre-richie-mccaw-0308141307.php</a>]]>
+</description>
+		<media:content url="https://www.youtube.com/v/Ujlx2YddQls" type="text/html" medium="document">
+			<media:title>Tribute to RICHIE MCCAW - "Greatest FLANKER of all TIME"</media:title>
+		</media:content>
+		<pubDate>Sun, 03 Aug 2014 00:00:00 GMT</pubDate>
+	</item>  
+	<item>
+		<title><![CDATA[Use gallery of imgs[contains(@src, "/wp-content/uploads/")]]></title>
+		<link>http://www.180back.com/surf/news-surf/fanning-simpose-sur-le-j-bay-open-2014-videos-et-resultats-16141/</link>
+		<comments>http://www.180back.com/surf/news-surf/fanning-simpose-sur-le-j-bay-open-2014-videos-et-resultats-16141/#comments</comments>
+		<pubDate>Mon, 21 Jul 2014 09:24:31 +0000</pubDate>
+		<dc:creator><![CDATA[DamienM]]></dc:creator>
+				<category><![CDATA[News Surf]]></category>
+		<category><![CDATA[ASP Word Tour]]></category>
+		<category><![CDATA[J Bay Open]]></category>
+		<category><![CDATA[Joel Parkinson]]></category>
+		<category><![CDATA[Mick Fanning]]></category>
+
+		<guid isPermaLink="false">http://www.180back.com/?p=16141</guid>
+		<description><![CDATA[<p>Le champion du monde en titre Mick Fanning s’est imposé sur le J Bay Open 2014 qui se déroulait à Jeffreys Bay en Afrique du Sud. Le Cooly kids signe ici sa deuxième victoire sur le World Tour 2014 et continue ainsi la course au titre 2014-2015. 180back fait le point sur les résultats en images et en vidéos. Les Australiens en places pour le J Bay Open 2014 Avec un carré 100% Australiens pour les demies Finales (Mick Fanning, Joel Parkinson, Owen Wright et Matt Wilkinson), la course à&#160;<a href="http://www.180back.com/surf/news-surf/fanning-simpose-sur-le-j-bay-open-2014-videos-et-resultats-16141/" class="read-more">Continue Reading</a></p>
+<p>The post <a rel="nofollow" href="http://www.180back.com/surf/news-surf/fanning-simpose-sur-le-j-bay-open-2014-videos-et-resultats-16141/">Fanning s&rsquo;impose sur le J Bay Open 2014 : Vidéos et résultats</a> appeared first on <a rel="nofollow" href="http://www.180back.com">Actualités du Ski, Snowboard, Skate, Surf - 180back.com</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><em><strong>Le champion du monde en titre Mick Fanning s’est imposé sur le J Bay Open 2014 qui se déroulait à Jeffreys Bay en Afrique du Sud</strong>. Le Cooly kids signe ici sa deuxième victoire sur le World Tour 2014 et continue ainsi la course au titre 2014-2015. 180back fait le point sur les résultats en images et en vidéos.</em></p>
+<h2>Les Australiens en places pour le J Bay Open 2014</h2>
+<div id="attachment_16146" style="width: 610px" class="wp-caption alignnone"><a href="http://www.180back.com/wp-content/uploads/2014/07/J-Bay-Open-2014-Fanning-inside-the-barrel-©ASP-Cestari.jpg"><img class="size-full wp-image-16146" src="http://www.180back.com/wp-content/uploads/2014/07/J-Bay-Open-2014-Fanning-inside-the-barrel-©ASP-Cestari.jpg" alt="J Bay Open 2014-Fanning inside the barrel ©ASP-Cestari" width="600" height="337" /></a><p class="wp-caption-text">Fanning inside the barrel ©ASP-Cestari</p></div>
+<p><span style="color: #111111;">Avec un carré 100% Australiens pour les demies Finales (<a href="http://www.180back.com/riders/mick-fanning-9622/" target="_blank">Mick Fanning</a>, <a href="http://www.180back.com/riders/joel-parkinson-9642/" target="_blank">Joel Parkinson</a>, <a href="http://www.180back.com/?s=Owen+Wright+" target="_blank">Owen Wright </a>et Matt Wilkinson), la course à la victoire s’annonçait belle et bien engagée et intense. Le Heat 1 entre Parkinson et Wilkinson nous a offert un spectacle de qualité avec Parkinson qui a scoré un 10/10 !</span><span style="color: #111111;"> </span><b style="color: #111111;">Dans le Heat suivant, la régularité et la cadence de Fanning ont fait la différence grâce notamment à ses deux vagues très propres (8/10 et 9/10) qui lui ont permis de sortir  Owen Wright. </b>En finale, les deux amis et deux derniers champions du monde 2012, 2013 se sont retrouvaient pour  une dernière ligne droite intense. La rigueur et la constance de Fanning ont encore payé avec un scénario cai similaire à son heat des demies avec un 9/ 10 et 8/10 . Après sa victoire sur le <a href="http://www.180back.com/surf/news-surf/rip-curl-pro-bells-beach-resultats-et-videos-12570/">Rip Curl Pro Bells Beach</a>, Mick Fanning remporte sa deuxième étape sur le World Tour 2014.</p>
+<div id="attachment_16147" style="width: 610px" class="wp-caption alignnone"><a href="http://www.180back.com/wp-content/uploads/2014/07/J-Bay-Open-2014-©ASP-Kirstin-Scholtz.jpg"><img class="wp-image-16147 size-full" src="http://www.180back.com/wp-content/uploads/2014/07/J-Bay-Open-2014-©ASP-Kirstin-Scholtz.jpg" alt="J Bay Open 2014 ©ASP-Kirstin Scholtz" width="600" height="337" /></a><p class="wp-caption-text">J Bay Open 2014 ©ASP-Kirstin Scholtz</p></div>
+<p>On notera également des conditions de surf somptueuses et un contexte atypique. Et ouais, <strong>ce n&rsquo;est pas pas tous les jours qu&rsquo;on peut surfer avec les dauphins !</strong></p>
+<div id="attachment_16148" style="width: 610px" class="wp-caption alignnone"><a href="http://www.180back.com/wp-content/uploads/2014/07/J-Bay-Open-2014-©condition-parfaite-last-day-ASP-Cestari.jpg"><img class="wp-image-16148 size-full" src="http://www.180back.com/wp-content/uploads/2014/07/J-Bay-Open-2014-©condition-parfaite-last-day-ASP-Cestari.jpg" alt="J Bay Open 2014 ©condition parfaite last day-ASP-Cestari" width="600" height="337" /></a><p class="wp-caption-text">©ASP-Cestari</p></div>
+<h3> Fanning et Parko s&rsquo;expriment</h3>
+<div id="attachment_16150" style="width: 610px" class="wp-caption alignnone"><a href="http://www.180back.com/wp-content/uploads/2014/07/J-Bay-Open-2014-Fanning-et-Parko©ASP-Cestari.jpg"><img class="size-full wp-image-16150" src="http://www.180back.com/wp-content/uploads/2014/07/J-Bay-Open-2014-Fanning-et-Parko©ASP-Cestari.jpg" alt="J Bay Open 2014-Fanning et Parko©ASP-Cestari" width="600" height="337" /></a><p class="wp-caption-text">J Bay Open 2014-Fanning et Parko©ASP-Cestari</p></div>
+<p><span style="color: #111111;"> Matt Fanning d’abord : </span>&laquo;&nbsp;Je n’aurais jamais rêvé pouvoir surfer un jour en finale sur le J-Bay Open avec Joel<span style="color: #111111;"> (Parkinson, ndlr). </span>Je suis très fatigué mais c’est un rêve qui devient réalité. Joel est un de mes surfeurs préférés et un ami, nous nous connaissons depuis l’enfance.&nbsp;&raquo;<span style="color: #111111;"> </span></p>
+<p><span style="color: #111111;">Et Joel Parkinson de répondre : </span>&laquo;&nbsp;C’était une finale incroyable et Matt<span style="color: #111111;"> (Fanning, ndlr) </span>est un tel surfeur ! J’ai pris deux mauvaises décisions en finale et je n’ai pas pris les bonnes vagues. Cela aurait été une bonne chose pour moi de gagner mais je retiens que cela a été une compétition merveilleuse ici, à Jeffreys Bay.&nbsp;&raquo;</p>
+<h2>Highlights Final Day : J Bay Open 2014</h2>
+<p><a href="http://www.180back.com/surf/news-surf/fanning-simpose-sur-le-j-bay-open-2014-videos-et-resultats-16141/"><em>Cliquer ici pour voir la vidéo.</em></a></p>
+<h2></h2>
+<h2>J Bay Open 2014 : Perfect 10 pour Parkinson</h2>
+<p><a href="http://www.180back.com/surf/news-surf/fanning-simpose-sur-le-j-bay-open-2014-videos-et-resultats-16141/"><em>Cliquer ici pour voir la vidéo.</em></a></p>
+<p>&nbsp;</p>
+<h2>Mick Fanning revient sur sa victoire</h2>
+<p><a href="http://www.180back.com/surf/news-surf/fanning-simpose-sur-le-j-bay-open-2014-videos-et-resultats-16141/"><em>Cliquer ici pour voir la vidéo.</em></a></p>
+<p>&nbsp;</p>
+
+<a href='http://www.180back.com/surf/news-surf/fanning-simpose-sur-le-j-bay-open-2014-videos-et-resultats-16141/attachment/j-bay-open-2014-fanning-happy-asp-cestari/'><img width="150" height="150" src="http://www.180back.com/wp-content/uploads/2014/07/J-Bay-Open-2014-Fanning-happy-©ASP-Cestari-150x150.jpg" class="attachment-thumbnail" alt="©ASP-Cestari" /></a>
+<a href='http://www.180back.com/surf/news-surf/fanning-simpose-sur-le-j-bay-open-2014-videos-et-resultats-16141/attachment/j-bay-open-2014-asp-kirstin-scholtz-2/'><img width="150" height="150" src="http://www.180back.com/wp-content/uploads/2014/07/J-Bay-Open-2014-©ASP-Kirstin-Scholtz1-150x150.jpg" class="attachment-thumbnail" alt="©Kirstin Scholtz" /></a>
+<a href='http://www.180back.com/surf/news-surf/fanning-simpose-sur-le-j-bay-open-2014-videos-et-resultats-16141/attachment/j-bay-open-2014-fanning-et-parkoasp-cestari/'><img width="150" height="150" src="http://www.180back.com/wp-content/uploads/2014/07/J-Bay-Open-2014-Fanning-et-Parko©ASP-Cestari-150x150.jpg" class="attachment-thumbnail" alt="J Bay Open 2014-Fanning et Parko©ASP-Cestari" /></a>
+<a href='http://www.180back.com/surf/news-surf/fanning-simpose-sur-le-j-bay-open-2014-videos-et-resultats-16141/attachment/j-bay-open-2014-condition-parfaite-last-day-asp-cestari/'><img width="150" height="150" src="http://www.180back.com/wp-content/uploads/2014/07/J-Bay-Open-2014-©condition-parfaite-last-day-ASP-Cestari-150x150.jpg" class="attachment-thumbnail" alt="©ASP-Cestari" /></a>
+<a href='http://www.180back.com/surf/news-surf/fanning-simpose-sur-le-j-bay-open-2014-videos-et-resultats-16141/attachment/j-bay-open-2014-fanning-inside-the-barrel-asp-cestari/'><img width="150" height="150" src="http://www.180back.com/wp-content/uploads/2014/07/J-Bay-Open-2014-Fanning-inside-the-barrel-©ASP-Cestari-150x150.jpg" class="attachment-thumbnail" alt="J Bay Open 2014-Fanning inside the barrel ©ASP-Cestari" /></a>
+<a href='http://www.180back.com/surf/news-surf/fanning-simpose-sur-le-j-bay-open-2014-videos-et-resultats-16141/attachment/j-bay-open-2014-joel-parkinson-kirstin-scholtz/'><img width="150" height="150" src="http://www.180back.com/wp-content/uploads/2014/07/J-Bay-Open-2014-Joel-Parkinson-©Kirstin-Scholtz-150x150.jpg" class="attachment-thumbnail" alt="J Bay Open 2014- Joel Parkinson-©Kirstin Scholtz" /></a>
+<a href='http://www.180back.com/surf/news-surf/fanning-simpose-sur-le-j-bay-open-2014-videos-et-resultats-16141/attachment/j-bay-open-2014-fanning-cut-backasp-cestari/'><img width="150" height="150" src="http://www.180back.com/wp-content/uploads/2014/07/J-Bay-Open-2014-Fanning-cut-back©ASP-Cestari-150x150.jpg" class="attachment-thumbnail" alt="Fanning©ASP-Cestari" /></a>
+<a href='http://www.180back.com/surf/news-surf/fanning-simpose-sur-le-j-bay-open-2014-videos-et-resultats-16141/attachment/j-bay-open-2014-de-souza-asp-cestari/'><img width="150" height="150" src="http://www.180back.com/wp-content/uploads/2014/07/J-Bay-Open-2014-De-Souza-©ASP-Cestari-150x150.jpg" class="attachment-thumbnail" alt="J Bay Open 2014 De Souza-©ASP-Cestari" /></a>
+
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="http://www.180back.com/surf/news-surf/fanning-simpose-sur-le-j-bay-open-2014-videos-et-resultats-16141/">Fanning s&rsquo;impose sur le J Bay Open 2014 : Vidéos et résultats</a> appeared first on <a rel="nofollow" href="http://www.180back.com">Actualités du Ski, Snowboard, Skate, Surf - 180back.com</a>.</p>
+]]></content:encoded>
+		<media:content url="http://www.youtube.com/v/88YkgT7OuPg" type="text/html" medium="document">
+			<media:title>Highlights Final Day : J Bay Open 2014</media:title>
+		</media:content>
+		<media:content url="http://www.youtube.com/v/YXrLblE7zlE" type="text/html" medium="document">
+			<media:title>J Bay Open 2014 : Perfect 10 pour Parkinson</media:title>
+		</media:content>
+		<media:content url="http://www.youtube.com/v/74a--whi1-4" type="text/html" medium="document">
+			<media:title>Mick Fanning revient sur sa victoire</media:title>
+		</media:content>
+			<wfw:commentRss>http://www.180back.com/surf/news-surf/fanning-simpose-sur-le-j-bay-open-2014-videos-et-resultats-16141/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+    <item>
+      <title>excel and audio as media:content</title>
+      <media:content url="http://www.ri.santander.com.br/download.aspx?Arquivo=oZyOmaJ0ZrkyFAlrl3jVTQ==" fileSize="618" type="application/vnd.ms-excel" medium="document">
+        <media:title>BR GAAP - 2T14 - Séries Históricas </media:title>
+      </media:content>
+      <media:content url="http://www.ri.santander.com.br/download.aspx?Arquivo=mbK33WrlHUwcF+sdPD6K/g==" fileSize="18205" type="audio/mpeg" medium="audio">
+        <media:title>audios_2T14_santander_por_2t14</media:title>
+      </media:content>
+      <guid isPermaLink="true">http://ri.santander.com.br/ShowResultado.aspx?IdResultado=IUTtZbXqDnfZv3ua5SpqPA==</guid>
+      <link>http://ri.santander.com.br/ShowResultado.aspx?IdResultado=IUTtZbXqDnfZv3ua5SpqPA==</link>
+      <description>&lt;p&gt;
+	&lt;span style="font-size: 10pt"&gt;&lt;span style="color: gray"&gt;&lt;span style="font-family: calibri, sans-serif"&gt;O lucro l&amp;iacute;quido gerencial&amp;sup1; do Santander totalizou R$ 2.864 milh&amp;otilde;es no primeiro semestre de 2014, com redu&amp;ccedil;&amp;atilde;o de 2,2% em doze meses e aumento de 0,6% no trimestre. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 GMT</pubDate>
+    </item>
+	</channel>
+</rss>
