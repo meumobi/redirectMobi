@@ -122,8 +122,6 @@
 		<media:content url="http://www.youtube.com/v/74a--whi1-4" type="text/html" medium="document">
 			<media:title>Mick Fanning revient sur sa victoire</media:title>
 		</media:content>
-			<wfw:commentRss>http://www.180back.com/surf/news-surf/fanning-simpose-sur-le-j-bay-open-2014-videos-et-resultats-16141/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
 		</item>
     <item>
       <title>excel and audio as media:content</title>
